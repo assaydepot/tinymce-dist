@@ -18,5 +18,5 @@
 		".npmignore",
 		"changelog.txt"
 	],
-  "main": [ "jquery.tinymce.min.js" ]
+  "main": [ "tinymce.min.js" ]
 }
