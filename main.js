@@ -1,4 +1,4 @@
-//= require tinymce.min.js
+//= require tinymce.js
 //= require plugins/advlist/plugin.min.js
 //= require plugins/anchor/plugin.min.js
 //= require plugins/autolink/plugin.min.js
