@@ -18,5 +18,5 @@
 		".npmignore",
 		"changelog.txt"
 	],
-  "main": [ "tinymce.min.js" ]
+  "main": [ "./tinymce.min.js", "./plugins/*", "./skins/*", "./themes/*" ]
 }
