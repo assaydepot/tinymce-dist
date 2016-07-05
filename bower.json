@@ -17,5 +17,6 @@
 		"package.json",
 		".npmignore",
 		"changelog.txt"
-	]
+	],
+  "main": [ "jquery.tinymce.min.js" ]
 }
